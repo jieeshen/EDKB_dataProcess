@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DCAE_STAT/DCAE_STAT.iml" filepath="$PROJECT_DIR$/DCAE_STAT/DCAE_STAT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EDKB_dataProcess.iml" filepath="$PROJECT_DIR$/EDKB_dataProcess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chem/chem.iml" filepath="$PROJECT_DIR$/chem/chem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataPreparation/dataPreparation.iml" filepath="$PROJECT_DIR$/dataPreparation/dataPreparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oldDataTrans/oldDataTrans.iml" filepath="$PROJECT_DIR$/oldDataTrans/oldDataTrans.iml" />
+    </modules>
+  </component>
+</project>
+
